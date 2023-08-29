@@ -7,4 +7,9 @@ regular text
 ![nu](https://static.toiimg.com/photo/msid-53891743,width-96,height-65.cms)
 
 
+1. one
+2. two
+3. three
 
+- sfdk
+- dnssn
