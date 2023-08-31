@@ -16,5 +16,9 @@ Then I realized that I was looking at a wrong file haha, so asked Vidit and he s
 
 I made some small changes, baked the file and exported the .ai file:
 
-![5th img](5.png)
+![6th img](6.png)
 
+
+Then I passed the quiz for the laser cutting printers at the 2nd attempt (now I know that you cannot leave a laser cutter while it's printing:D)
+
+![2nd img](2.png)
