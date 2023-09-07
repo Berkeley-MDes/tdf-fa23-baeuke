@@ -7,3 +7,5 @@ There were lots of things this first week, so needed some time to adjust..
 
 ## Process
 Last time, my laser-cut failed
+
+<img src="2_1.JPG" alt="pic2_1" width="50%">
