@@ -9,13 +9,13 @@ Last time, my laser-cut failed, it looked okay at the beginning:
 
 <img src="2_1.JPG" alt="pic2_1" width="50%">
 
-<br>
+</br>
 but when I looked at the back side it was aparent that it didn't cut through:
-<br>
+</br>
 <img src="2_2.JPG" alt="pic2_1" width="50%">
 
-<br>
+</br>
 So I used a box cutter to cut them manually by hand:
-<br>
+</br>
 
 <img src="2_3.JPG" alt="pic2_1" width="50%">
