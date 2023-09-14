@@ -3,8 +3,8 @@
 Finally made it! :D
 
 <img src="3_1.JPG" alt="pic2_1" width="50%">
-<!-- <img width="50%" style=" margin : 0 auto;" src="lasercutter.gif"/> -->
-![Video]("./3v_1.mov")
+
+<video src="3v_1.mov" alt="pic2_1" width="50%">
 
 ## Reflections
 
