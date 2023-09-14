@@ -4,7 +4,9 @@ Finally made it! :D
 
 <img src="3_1.JPG" alt="pic2_1" width="50%">
 
-<video src="3v_1.mov" alt="pic2_1" width="50%">
+<video> 
+   <source src="3v_1.mov" type="video/mp4">
+</video>
 
 ## Reflections
 
