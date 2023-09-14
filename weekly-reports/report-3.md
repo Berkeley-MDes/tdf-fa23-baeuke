@@ -1,13 +1,19 @@
 # Weekly report //3
 
+Finally made it! :D
+
+<img src="3_1.JPG" alt="pic2_1" width="50%">
+
 ## Reflections
 
-For this week, I worked on the laser cut handle, last class it didn't really cut through, and I should have checked that before removing one piece (so that I could laser cut it again), but now at least I know how to do that properly. I'm still struggling with the Rhino and grashoper.. 
+This week was a bit easier (hopefully made some progress), I watched TJ's youtube tutorial for the simpler version of the cell phone stand and it made a lot of things indeed clearer. Untill now I didn't understand why do we always have an additional data structure to store some value, but it seems that it just makes it easier to navigate in the file and now "what stores what" kinf of things (since you also usually give some name for this data structure containing a point/plane/shape/etc.).. 
+<br>
+Another thing is 
 
 ## Process
 Last time, my laser-cut failed, it looked okay at the beginning:
 
-<img src="2_1.JPG" alt="pic2_1" width="50%">
+
 
 
 but when I looked at the back side it was aparent that it didn't cut through:
