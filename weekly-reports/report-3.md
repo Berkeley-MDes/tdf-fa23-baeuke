@@ -4,7 +4,6 @@ Finally made it! :D
 
 <img src="3_1.JPG" alt="pic2_1" width="50%">
 <br/><br/>
-<img src="3g_1.gif" alt="pic2_1" width="50%">
 
 ## Reflections
 
@@ -37,4 +36,4 @@ Made my 3rd cut:
 <br/>
 <br/>
 and here is the result:
-<img src="3_6.png" alt="pic2_1" width="50%">
+<img src="3g_1.gif" alt="pic2_1" width="50%">
