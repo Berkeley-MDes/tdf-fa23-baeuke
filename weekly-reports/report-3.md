@@ -13,11 +13,11 @@ Another thing is
 ## Process
 As said, first started with TJ's tutorial:
 
-<img src="3_2.PNG" alt="pic2_1" width="50%">
+<img src="3_2.png" alt="pic2_1" width="50%">
 <br/>
 And was simultaneously analyzing the provided Rhino and grasshoper project
 
-<img src="3_3.PNG" alt="pic2_1" width="50%">
+<img src="3_3.png" alt="pic2_1" width="50%">
 <br/>
 
 
