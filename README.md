@@ -2,7 +2,7 @@
 
 Finally made it! :D
 
-<img src="3_1.JPG" alt="pic2_1" width="50%">
+<img src="weekly-reports/3_1.JPG" alt="pic2_1" width="50%">
 
 ## Reflections
 
@@ -13,23 +13,23 @@ Another thing is
 ## Process
 As said, first started with TJ's tutorial:
 
-<img src="3_2.png" alt="pic2_1" width="50%">
+<img src="weekly-reports/3_2.png" alt="pic2_1" width="50%">
 <br/>
 And was simultaneously analyzing the provided Rhino and grasshoper project
 
-<img src="3_3.png" alt="pic2_1" width="50%">
+<img src="weekly-reports/3_3.png" alt="pic2_1" width="50%">
 <br/>
 
 
 but when I looked at the back side it was aparent that it didn't cut through:
 
-<img src="2_2.JPG" alt="pic2_1" width="50%">
+<img src="weekly-reports/2_2.JPG" alt="pic2_1" width="50%">
 
 
 So I used a box cutter to cut them manually by hand:
 
 
-<img src="2_3.JPG" alt="pic2_1" width="50%">
+<img src="weekly-reports/2_3.JPG" alt="pic2_1" width="50%">
 
 
 <br/>
