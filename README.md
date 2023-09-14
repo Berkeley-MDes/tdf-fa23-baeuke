@@ -3,7 +3,7 @@
 Finally made it! :D
 
 <img src="weekly-reports/3_1.JPG" alt="pic2_1" width="50%">
-<br/><br/>
+<br/>
 
 ## Reflections
 
