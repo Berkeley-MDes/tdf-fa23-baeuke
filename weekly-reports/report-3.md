@@ -3,7 +3,6 @@
 Finally made it! :D
 
 <img src="3_1.JPG" alt="pic2_1" width="50%">
-<br/><br/>
 
 ## Reflections
 
