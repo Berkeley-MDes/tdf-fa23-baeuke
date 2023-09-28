@@ -18,3 +18,10 @@ Then, following the tutorial on git, made the LED blink:
 On Tuesday we were brainstorming on project ideas, our scope was "Agriculture" and we actually did well and came up with many great ideas. However, I was a little bit upset to work on "Agriculture" related project (just because it's not a field I'm interested in and have no prior experience). But it ended up that we choose a project ourselves from the pool of all ideas (which is veery cool!), so I chose my top 3:
 
 <img src="5_2.png" alt="pic2_1" width="50%">
+<br/>
+It's basically:
+1) Enhancing Interpersonal Connections: Exploring Subtle Communication Tools for Friendships and Relationships
+2) Mindful Meditations: An Interactive Flower Guide for Stress Relief and Color Therapy Tracking
+3) Collaborative Song Crafting: Empowering Local Music Enthusiasts with Asynchronous Music Creation
+
+## Speculations
