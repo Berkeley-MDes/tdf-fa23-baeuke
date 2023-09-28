@@ -1,11 +1,11 @@
 # Weekly report //5
 
 ## Summary
+This week we started with setting up the Photon 2, developing 3 project ideas for a given field, and then choosing best 3 among all to work on for the next 3-4 weeks. 
 
-I spent most of my days this week working on a project from my elective course since it's related to the field I want to explore now. But I'm also very intterested in the 2nd TDF project and is related to my background. So, hopefully will really challenge myself this time.
-
-For now, nothing to say, and I've got my kit:)
+## Process
 <br/>
+First, I wasn't able to prepare the photon 2 in advance for the class on Friday, and when prof. Sudhu started showing 
 <img src="5_1.JPG" alt="pic2_1" width="50%">
 <br/>
 <br/>
