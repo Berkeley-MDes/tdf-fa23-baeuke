@@ -23,5 +23,3 @@ Based on my interests and experience, I chose:<br/>
 1) Enhancing Interpersonal Connections: Exploring Subtle Communication Tools for Friendships and Relationships<br/>
 2) Mindful Meditations: An Interactive Flower Guide for Stress Relief and Color Therapy Tracking<br/>
 3) Collaborative Song Crafting: Empowering Local Music Enthusiasts with Asynchronous Music Creation
-
-## Speculations
