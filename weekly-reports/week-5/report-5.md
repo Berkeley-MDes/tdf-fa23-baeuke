@@ -6,7 +6,7 @@ I spent most of my days this week working on a project from my elective course s
 
 For now, nothing to say, and I've got my kit:)
 <br/>
-<img src="4_1.JPG" alt="pic2_1" width="50%">
+<img src="5_1.JPG" alt="pic2_1" width="50%">
 <br/>
 <br/>
 
