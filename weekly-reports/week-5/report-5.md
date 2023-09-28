@@ -19,9 +19,9 @@ On Tuesday we were brainstorming on project ideas, our scope was "Agriculture" a
 
 <img src="5_2.png" alt="pic2_1" width="50%">
 <br/>
-It's basically:
-1) Enhancing Interpersonal Connections: Exploring Subtle Communication Tools for Friendships and Relationships
-2) Mindful Meditations: An Interactive Flower Guide for Stress Relief and Color Therapy Tracking
+Based on my interests and experience, I chose:<br/>
+1) Enhancing Interpersonal Connections: Exploring Subtle Communication Tools for Friendships and Relationships<br/>
+2) Mindful Meditations: An Interactive Flower Guide for Stress Relief and Color Therapy Tracking<br/>
 3) Collaborative Song Crafting: Empowering Local Music Enthusiasts with Asynchronous Music Creation
 
 ## Speculations
