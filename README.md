@@ -143,20 +143,26 @@ For this week, I worked on the laser cut handle, last class it didn't really cut
 ## Process
 Last time, my laser-cut failed, it looked okay at the beginning:
 
-<img src="weekly-reports/2_1.JPG" alt="pic2_1" width="50%">
+<img src="weekly-reports/week-2/2_1.JPG" alt="pic2_1" width="50%">
 
 
 but when I looked at the back side it was aparent that it didn't cut through:
 
-<img src="weekly-reports/2_2.JPG" alt="pic2_1" width="50%">
+<img src="weekly-reports/week-2/2_2.JPG" alt="pic2_1" width="50%">
 
 
 So I used a box cutter to cut them manually by hand:
 
 
-<img src="weekly-reports/2_3.JPG" alt="pic2_1" width="50%">
+<img src="weekly-reports/week-2/2_3.JPG" alt="pic2_1" width="50%">
 
 
+
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
 # Weekly report //1
 
@@ -203,6 +209,12 @@ Also, because it was shrinked, the thinkness of the material wasn't suitable for
 ![10th img](weekly-reports/10.JPG)  
 
 
+
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
 # Hello DES INV 202 Student!
 Welcome to your new GitHub repository! 
