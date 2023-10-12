@@ -5,10 +5,13 @@ Last week, after we finished our paper prototype and sketches, we split our team
 
 ## Process
 <br/>
+Prof. Sudhu suggested a tutorial for turning on LED from internet, and I started following it
 <img src="7_1.png" alt="pic2_1" width="70%">
 <br/>
+But then I realized that using function may not be a good fit for our team's case, since it's only useful when manipulating with one device:
 <img src="7_2.png" alt="pic2_1" width="70%">
 <br/>
+But I found another tutorial which uses publish and subscribe to achieve a similar task, and was mainly doing based on that:
 <img src="7_3.png" alt="pic2_1" width="70%">
 <br/>
 <img src="7_4.JPG" alt="pic2_1" width="70%">
