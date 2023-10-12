@@ -11,4 +11,4 @@ Last week, after we finished our paper prototype and sketches, we split our team
 <br/>
 <img src="weekly-reports/week-7/7_3.png" alt="pic2_1" width="70%">
 <br/>
-<img src="weekly-reports/week-7/7_4.png" alt="pic2_1" width="70%">
+<img src="weekly-reports/week-7/7_4.JPG" alt="pic2_1" width="70%">
