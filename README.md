@@ -6,10 +6,10 @@ After our team project ended last week, and we began working on our own projects
 ## Process
 <br/>
 Went through the Project requirements
-<img src="9_1.png" alt="pic2_1" width="70%">
+<img src="weekly-reports/week-9/9_1.png" alt="pic2_1" width="70%">
 <br/>
 And through the related articles
-<img src="9_2.png" alt="pic2_1" width="70%">
+<img src="weekly-reports/week-9/9_2.png" alt="pic2_1" width="70%">
 
 
 <br/>
