@@ -24,3 +24,10 @@ Also, at this point I was already tired of asking it each time "who are you", so
 <img src="10_3.png" alt="pic2_1" width="70%">
 <br/>
 Additionally I just thought that this might be useful for future portfolio website integration
+<br/>
+The next step was adding the knowledge sets:
+<img src="10_4.png" alt="pic2_1" width="70%">
+<br/>
+From funny things, I decided to instruct my intelligence to write in style of a Kazakh poet Abai Kunanbayev and end sentences with a smily ':D' character:
+<img src="10_5.png" alt="pic2_1" width="70%">
+<br/>
