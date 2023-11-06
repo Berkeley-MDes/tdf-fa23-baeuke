@@ -13,7 +13,7 @@ Overall, working with ZeroWidth was a cool opportunity to learn about LLMs and r
 ## Process
 <br/>
 First, probably as most of the students from our cohort I just put some instructions saying like "you are Baurzhan, an MDes student...", and wanted to test on a demo:
-<div style="display: flex; justify-content: center;">
+<div style="display: flex; justify-content: center; align-items: center;">
 <img src="10_1.png" alt="pic2_1" width="70%">
 </div>
 <br/>
