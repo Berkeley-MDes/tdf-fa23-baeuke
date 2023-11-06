@@ -1,7 +1,10 @@
 # Weekly report //10
 
 ## Summary
-After our team project ended last week, and we began working on our own projects, I've been reflecting on how I did on project 2, to submit a report for Monday. Then spent some time experimenting with the ZeroWidth Workbench. This week has been pretty tough because I had a lot of assignments from my other classes.
+The whole week was basically working on project 3, I divided the work into two main parts: 
+1) Exploring the ZeroWidth environment
+2) Connecting ZeroWidth's API to a web-app
+Overall, working with ZeroWidth was a cool opportunity to learn about LLMs and related features and making an actual product using an LLM. Though I wasn't very into experimenting too much with the controls (like temperature, different models, etc.), I loved the process of using it as a tool and integrating it into a webapp.
 
 ## Terminology (just for my note)
 **RAG (Retrieval Augmented Generation)** - is basically making an LLM connect to some database/sources from where it can retrieve and give the most relevant, up-to-date and accurate information. It also innvolves  using additional instructions for the LLM linked to the original prompt passed by a user. Without RAG, an LLM would give responses based on the info gathered before its training. RAG is convenient because now we don't have to retrain the whole model to give up-do-date info.
