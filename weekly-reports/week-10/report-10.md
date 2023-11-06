@@ -36,6 +36,6 @@ Now, since the main requirements were done, I wanted to connect to the API and b
 <br/>
 I remember this error from project 2 when trying to send events from a web app to 2 photons, and the problem was that I was trying to make an API request directly from the client side, and the possible ways to solve this issue was to use some framework or tool and trying to connect from the server side.
 <br/><br/>
-So, using Shm's nodejs-starter-code once more, I built the app:
+So, using Shm's nodejs-starter-code once again, I built the app:
 <img src="10_7.png" alt="pic2_1" width="70%">
 <img src="10_8.png" alt="pic2_1" width="70%">
