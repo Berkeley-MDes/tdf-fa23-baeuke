@@ -3,7 +3,8 @@
 ## Summary
 The whole week was basically working on project 3, I divided the work into two main parts: 
 1) Exploring the ZeroWidth environment
-2) Connecting ZeroWidth's API to a web-app
+2) Connecting ZeroWidth's API to a web-app.
+
 Overall, working with ZeroWidth was a cool opportunity to learn about LLMs and related features and making an actual product using an LLM. Though I wasn't very into experimenting too much with the controls (like temperature, different models, etc.), I loved the process of using it as a tool and integrating it into a webapp.
 
 ## Terminology (just for my note)
