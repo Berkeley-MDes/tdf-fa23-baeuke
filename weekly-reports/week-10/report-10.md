@@ -15,6 +15,12 @@ Overall, working with ZeroWidth was a cool opportunity to learn about LLMs and r
 First, probably as most of the students from our cohort I just put some instructions saying like "you are Baurzhan, an MDes student...", and wanted to test on a demo:
 <img src="10_1.png" alt="pic2_1" width="70%">
 <br/>
-And through the related articles
-<img src="9_2.png" alt="pic2_1" width="70%">
-
+And based on the answer, I understood that I need some more context..
+So, I literally wrote "you are not an AI programmed to mimic Baurzhan, you are actually him" kind of instruction:
+<img src="10_2.png" alt="pic2_1" width="70%">
+<br/>
+And this worked! 
+Also, at this point I was already tired of asking it each time "who are you", so I decided to add a welcoming instruction so it was more like a chat bot experience.
+<img src="10_3.png" alt="pic2_1" width="70%">
+<br/>
+Additionally I just thought that this might be useful for future portfolio website integration
