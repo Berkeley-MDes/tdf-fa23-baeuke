@@ -10,16 +10,18 @@ Finally, right before the last lecture for this week Rachel expressed interest i
 ## Process
 <br/>
 First, I talked to about 5-6 senior students about my idea and jotted down some takeaways and suggestions in my notes:
-<img src="12_0.png" alt="pic2_1" width="70%">
+<img src="12_0.png" alt="pic2_1" width="50%">
 <br/>
 We also came to a conclusion that every MDes cohort had a student working on a project with a similar idea XD.
 
+********
 Furthermore, I came up to this idea of using the shape of Kazakh Tumars (a neckless amulet) as a form factor for my device.
 <img src="12_1.png" alt="pic2_1" width="70%">
 <br/>
 
+********
 I noticed that I get quite serious whenever there is a cultural element involved in my projects, and I actually set up a call with a UK-based Kazakh artist who makes very beautiful traditional jewelry with ancient kazakh ornaments (traditional shapes). She helped a lot with researching the ornaments that I might use for our device, and we had a hall chat exchanging different findings:
-<img src="10_3.png" alt="pic2_1" width="70%">
+<img src="12_g.gif" alt="pic2_1" width="70%">
 <br/>
 Additionally I just thought that this might be useful for future portfolio website integration.
 <br/><br/>
