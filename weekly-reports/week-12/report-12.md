@@ -14,6 +14,7 @@ First, I talked to about 5-6 senior students about my idea and jotted down some 
 <br/>
 We also came to a conclusion that every MDes cohort had a student working on a project with a similar idea XD.
 <br/>
+
 ********
 Furthermore, I came up to this idea of using the shape of Kazakh Tumars (a neckless amulet) as a form factor for my device.
 <img src="12_1.png" alt="pic2_1" width="70%">
@@ -31,6 +32,7 @@ And here are approxiamte ones I wanted to use (they are not the most beautiful o
 <img src="12_2.png" alt="pic2_1" width="70%">
 <br/>
 <br/>
+
 ********
 
 And, this is my submitted Project Proposal:
