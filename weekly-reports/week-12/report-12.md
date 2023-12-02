@@ -1,26 +1,24 @@
-# Weekly report //10
+# Weekly report //12
 
 ## Summary
-The whole week was basically working on project 3, I divided the work into two main parts: 
-1) Exploring the ZeroWidth environment
-2) Connecting ZeroWidth's API to a web-app.
+This week I was mainly researching and interviewing people around (about long distance relationship communications devices) to further refine my idea  for the final personal project and narrow down the scope. Specifically, I talked to our senior cohort 3 MDes students while working in the studio and actually came up with cool advice and even had a genius idea (:D) coming to my mind right in the middle of the conversation with one of the seniors. The new concept draws inspiration from Kazakh culture.
 
-Overall, working with ZeroWidth was a cool opportunity to learn about LLMs and related features and making an actual product using an LLM. Although I wasn't very into experimenting too much with the controls (like temperature, different models, etc.), I loved the process of using it as a tool and integrating it into a webapp.
+Also, we a had the Final Project Proposal submission where I kind of collected all my findings into one document.
 
-## Terminology (just for my note)
-**RAG (Retrieval Augmented Generation)** - is basically making an LLM connect to some database/sources from where it can retrieve and give the most relevant, up-to-date and accurate information. It also innvolves  using additional instructions for the LLM linked to the original prompt passed by a user. Without RAG, an LLM would give responses based on the info gathered before its training. RAG is convenient because now we don't have to retrain the whole model to give up-do-date info.
+Finally, right before the last lecture for this week Rachel expressed interest in joining my project. So, now it's two of us working on the long distance communication device, which is very cool since she also has a background in CS and we can work together on software and hardware code as well as this project requires at least 2 microcontrollers.
 
 ## Process
 <br/>
-First, probably as most of the students from our cohort I just put some instructions saying like "you are Baurzhan, an MDes student...", and wanted to test on a demo:
-<img src="10_1.png" alt="pic2_1" width="70%">
+First, I talked to about 5-6 senior students about my idea and jotted down some takeaways and suggestions in my notes:
+<img src="12_0.png" alt="pic2_1" width="70%">
 <br/>
-And based on the answer, I understood that I need some more context..
-So, I literally wrote "you are not an AI programmed to mimic Baurzhan, you are actually him" kind of instruction:
-<img src="10_2.png" alt="pic2_1" width="70%">
+We also came to a conclusion that every MDes cohort had a student working on a project with a similar idea XD.
+
+Furthermore, I came up to this idea of using the shape of Kazakh Tumars (a neckless amulet) as a form factor for my device.
+<img src="12_1.png" alt="pic2_1" width="70%">
 <br/>
-And this worked! 
-Also, at this point I was already tired of asking it each time "who are you", so I decided to add a welcoming instruction so it was more like a chat bot experience.
+
+I noticed that I get quite serious whenever there is a cultural element involved in my projects, and I actually set up a call with a UK-based Kazakh artist who makes very beautiful traditional jewelry with ancient kazakh ornaments (traditional shapes). She helped a lot with researching the ornaments that I might use for our device, and we had a hall chat exchanging different findings:
 <img src="10_3.png" alt="pic2_1" width="70%">
 <br/>
 Additionally I just thought that this might be useful for future portfolio website integration.
