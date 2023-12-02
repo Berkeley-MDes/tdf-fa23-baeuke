@@ -3,7 +3,11 @@
 ## Summary
 This week I was mainly researching and interviewing people around (about long distance relationship communications devices) to further refine my idea  for the final personal project and narrow down the scope. Specifically, I talked to our senior cohort 3 MDes students while working in the studio and actually came up with cool advice and even had a genius idea (:D) coming to my mind right in the middle of the conversation with one of the seniors. The new concept draws inspiration from Kazakh culture.
 
-Also, we a had the Final Project Proposal submission where I kind of collected all my findings into one document.
+Then, we had the Final Project Proposal submission where I kind of collected all my findings into one document.
+
+Also, I had a call with a Kazakh artist to get some advice on the choice of ornaments for the device. 
+
+Finally, Rachel joined the project and now it's two of us working on this project.
 
 ## Process
 <br/>
@@ -40,4 +44,4 @@ And, this is my submitted Project Proposal:
 <br/>
 
 ********
-Finally, right before the last lecture for this week Rachel expressed interest in joining my project. So, now it's two of us working on the long distance communication device, which is very cool since she also has a background in CS and we can work together on software and hardware code as well as this project requires at least 2 microcontrollers.
+Finally, right before the last lecture for this week **Rachel expressed interest in joining** the project. So, now **it's two of us working** on the long distance communication device! Which is very cool since she also has a background in CS and we can work together on software and hardware code as well as this project requires at least 2 microcontrollers.
