@@ -5,8 +5,6 @@ This week I was mainly researching and interviewing people around (about long di
 
 Also, we a had the Final Project Proposal submission where I kind of collected all my findings into one document.
 
-Finally, right before the last lecture for this week Rachel expressed interest in joining my project. So, now it's two of us working on the long distance communication device, which is very cool since she also has a background in CS and we can work together on software and hardware code as well as this project requires at least 2 microcontrollers.
-
 ## Process
 <br/>
 First, I talked to about 5-6 senior students about my idea and jotted down some takeaways and suggestions in my notes:
@@ -36,4 +34,10 @@ And here are approxiamte ones I wanted to use (they are not the most beautiful o
 ********
 
 And, this is my submitted Project Proposal:
+<br/>
 <img src="12_3.png" alt="pic2_1" width="50%">
+<br/>
+<br/>
+
+********
+Finally, right before the last lecture for this week Rachel expressed interest in joining my project. So, now it's two of us working on the long distance communication device, which is very cool since she also has a background in CS and we can work together on software and hardware code as well as this project requires at least 2 microcontrollers.
