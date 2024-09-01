@@ -1,3 +1,6 @@
+# outline
+[week 11](https://github.com/Berkeley-MDes/tdf-fa23-baeuke/tree/main#weekly-report-11)
+
 # Weekly report //12
 
 ## Summary
